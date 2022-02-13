@@ -12,3 +12,5 @@ Codes I'll probably use:
 <ul
 <ol>
 <li>
+<em>
+<strong>
